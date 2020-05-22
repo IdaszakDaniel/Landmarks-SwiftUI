@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F90CB34E24785B130005D9F9 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90CB34D24785B130005D9F9 /* UserData.swift */; };
 		F95F2BA12475AE33005F6807 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95F2B9F2475AE33005F6807 /* Data.swift */; };
 		F95F2BA22475AE33005F6807 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95F2BA02475AE33005F6807 /* Landmark.swift */; };
 		F95F2BB12475AE9B005F6807 /* turtlerock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F95F2BA42475AE9B005F6807 /* turtlerock.jpg */; };
@@ -54,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F90CB34D24785B130005D9F9 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		F95F2B9F2475AE33005F6807 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		F95F2BA02475AE33005F6807 /* Landmark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		F95F2BA42475AE9B005F6807 /* turtlerock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turtlerock.jpg; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 			children = (
 				F95F2BBE2475B014005F6807 /* LandmarkRow.swift */,
 				F95F2BC024764439005F6807 /* LandmarkList.swift */,
+				F90CB34D24785B130005D9F9 /* UserData.swift */,
 				F95F2B9E2475AE33005F6807 /* Models */,
 				F9A915A8247591A300DF6B84 /* AppDelegate.swift */,
 				F9A915AA247591A300DF6B84 /* SceneDelegate.swift */,
@@ -361,6 +364,7 @@
 				F9A915DB247597EC00DF6B84 /* MapView.swift in Sources */,
 				F9A915AB247591A300DF6B84 /* SceneDelegate.swift in Sources */,
 				F95F2BBF2475B014005F6807 /* LandmarkRow.swift in Sources */,
+				F90CB34E24785B130005D9F9 /* UserData.swift in Sources */,
 				F9A915AD247591A300DF6B84 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
