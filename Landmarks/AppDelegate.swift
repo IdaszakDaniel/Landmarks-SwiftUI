@@ -5,7 +5,6 @@
 //  Created by Daniel Idaszak on 20/05/2020.
 //  Copyright © 2020 Daniel Idaszak. All rights reserved.
 //
-
 import UIKit
 
 @UIApplicationMain
@@ -34,4 +33,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 }
-
