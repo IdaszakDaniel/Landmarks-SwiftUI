@@ -11,6 +11,7 @@
 		F90C3A09247A702900501C64 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90C3A08247A702900501C64 /* ProfileHost.swift */; };
 		F90C3A0B247A718800501C64 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90C3A0A247A718800501C64 /* ProfileSummary.swift */; };
 		F90C3A0D247A73B900501C64 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90C3A0C247A73B900501C64 /* HikeBadge.swift */; };
+		F90C3A0F247A7CCF00501C64 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90C3A0E247A7CCF00501C64 /* ProfileEditor.swift */; };
 		F90CB34E24785B130005D9F9 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90CB34D24785B130005D9F9 /* UserData.swift */; };
 		F90CB35024793B200005D9F9 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90CB34F24793B200005D9F9 /* Badge.swift */; };
 		F90CB35424793B900005D9F9 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90CB35324793B900005D9F9 /* HexagonParameters.swift */; };
@@ -76,6 +77,7 @@
 		F90C3A08247A702900501C64 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		F90C3A0A247A718800501C64 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		F90C3A0C247A73B900501C64 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		F90C3A0E247A7CCF00501C64 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		F90CB34D24785B130005D9F9 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		F90CB34F24793B200005D9F9 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 		F90CB35324793B900005D9F9 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				F90C3A08247A702900501C64 /* ProfileHost.swift */,
 				F90C3A0A247A718800501C64 /* ProfileSummary.swift */,
 				F90C3A0C247A73B900501C64 /* HikeBadge.swift */,
+				F90C3A0E247A7CCF00501C64 /* ProfileEditor.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -442,6 +445,7 @@
 				F90C3A0B247A718800501C64 /* ProfileSummary.swift in Sources */,
 				F90CB36424794D3F0005D9F9 /* GraphCapsule.swift in Sources */,
 				F9A915AD247591A300DF6B84 /* ContentView.swift in Sources */,
+				F90C3A0F247A7CCF00501C64 /* ProfileEditor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
